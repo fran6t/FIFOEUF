@@ -15,3 +15,5 @@ La cornière d'angle est remplacée par de la tige de 4 mm
 Il faudra aussi un petit peu de fil de fer ou alors de la bonne colle pour que la pièce qui sert à retenir les oeufs en fin de course ne glisse pas le long des tiges et aussi pour maintenir le flip en place. 
 
 L'axe du flip et aussi une simple tige de 4mm découpé à partir des tiges principales
+
+![Vue de l'assemblage total](https://github.com/fran6t/FIFOEUF/raw/main/img/Assemblage_Total.jpg)
